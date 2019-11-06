@@ -34,3 +34,10 @@ yarn add multer
 
 Para atualizar a linha de comando após alguma instalação
 refreashes
+
+
+Endereçopara acessar o app pelo android
+exp://192.168.15.8:19000
+
+Documentação do React navigation, para criar componentes no mobile com diversas funções
+https://reactnavigation.org/en/
